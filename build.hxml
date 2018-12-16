@@ -1,0 +1,5 @@
+-lib hxmeteor
+-cp lib
+-cp src
+-main Go
+-js bin/meteor.js
